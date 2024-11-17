@@ -1,0 +1,98 @@
+﻿body {
+	background-color: #C2A7F2;
+	h1{
+		color: black;
+	}
+	p{
+		color: black;
+	}
+	p2{
+		color: rgb(143, 62, 93);
+	}
+	.resized-image {
+		width: 400px;
+		height: 500px;
+	}
+	body {
+		font-family: Arial, sans-serif;
+	
+			font-family: Arial, sans-serif;
+			background-color: purple; 
+	}
+	.styled-button {
+		background-color: rgba(114, 52, 72, 0.966);
+		border: none;
+		color: rgb(17, 15, 17);
+		padding: 10px 25px;
+		text-align: center; 
+		text-decoration: none; 
+		display: inline-block;
+		font-size: 16px; 
+		margin: 10px 25px; 
+		cursor: pointer; 
+		border-radius: 12px; 
+		transition: background-color 0.3s; 
+	}
+	
+	.styled-button:hover {
+		background-color: palevioletred
+	}
+		form {
+			background-color: white;
+			padding: 20px;
+			border-radius: 8px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+			max-width: 400px;
+			margin: auto;
+		}
+		
+		label {
+			display: block;
+			margin-bottom: 8px;
+		}
+		
+		input, textarea {
+			width: 100%;
+			padding: 8px;
+			margin-bottom: 10px;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+		}
+		
+		button[type="submit"] {
+			background-color: #550e3a;
+			color: rgb(238, 222, 231);
+			border: none;
+			padding: 10px 20px;
+			cursor: pointer;
+			border-radius: 4px;
+		}
+		
+		button[type="submit"]:hover {
+			background-color: #691650;
+		}
+		
+	}
+	
+	.styled-button {
+		background-color: rgba(114, 52, 72, 0.966);
+		border: none;
+		color: rgb(17, 15, 17);
+		padding: 10px 25px;
+		text-align: center; 
+		text-decoration: none; 
+		display: inline-block; 
+		font-size: 16px; 
+		margin: 10px 25px; 
+		cursor: pointer; 
+		border-radius: 12px; 
+		transition: background-color 0.3s; 
+	}
+	
+	.styled-button:hover {
+		background-color: palevioletred
+	}
+	
+
+
+
